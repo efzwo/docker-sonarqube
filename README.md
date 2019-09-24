@@ -1,6 +1,6 @@
 # About this Repo
 
-This is the Git repo of the official Docker image for [SonarQube](https://registry.hub.docker.com/_/sonarqube/). See the Hub page for the full readme on how to use the Docker image and for information regarding contributing and issues.
+This is a fork of the Git repo of the official Docker image for [SonarQube](https://registry.hub.docker.com/_/sonarqube/). See the Hub page for the full readme on how to use the Docker image and for information regarding contributing and issues.
 
 The full readme is generated over in [docker-library/docs](https://github.com/docker-library/docs), specifically in [docker-library/docs/sonarqube](https://github.com/docker-library/docs/tree/master/sonarqube).
 
@@ -8,6 +8,6 @@ The full readme is generated over in [docker-library/docs](https://github.com/do
 
 ### License
 
-Copyright 2015-2019 SonarSource.
+Copyright 2015-2019 SonarSource, 2019 Christian Grotheer
 
 Licensed under the [GNU Lesser General Public License, Version 3.0](http://www.gnu.org/licenses/lgpl.txt)
